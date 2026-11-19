@@ -1,0 +1,14 @@
+#TASK1
+BASE RATE = 30.00
+FAT STEP VALUE = 0.48
+SNF STEP VALUE = 0.30
+MIN FAT, MAX FAT = 2.0, 7.0
+MIN_SNF, MAX_SNF = 6.0, 10.0
+farmer_id = input("Enter Farmer ID: '
+litres = litres:
+fat = float(input("Enter fat percentage: "
+snf = SNF percentage:
+shift =input("Enter shift")
+if litres<0 or not(min_Fat<=fat<=Max_fat)or not (min_SNF)
+print("Invalid data")
+
